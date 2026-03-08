@@ -18,6 +18,7 @@ public class Superblocks implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+		ModBlocks.initialize();
 		ModItems.initialize();
 	}
 }
