@@ -3,7 +3,7 @@
 	"package": "name.modid.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"IllagerEntityMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

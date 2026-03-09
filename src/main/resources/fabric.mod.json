@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"name.modid.SuperblocksClient"
+		],
+		"fabric-datagen": [
+			"name.modid.datagen.ExampleModDataGenerator"
 		]
 	},
 	"mixins": [

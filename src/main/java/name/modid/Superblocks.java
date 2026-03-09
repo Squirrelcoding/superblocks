@@ -2,8 +2,7 @@ package name.modid;
 
 import net.fabricmc.api.ModInitializer;
 
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
-import net.minecraft.world.item.CreativeModeTabs;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
